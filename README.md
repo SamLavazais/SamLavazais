@@ -10,7 +10,7 @@ Je souhaite contribuer, au sein d'une équipe à taille humaine, à des projets 
 
 ## Mes principaux projets
 - [Adopte un meuble](https://github.com/SamLavazais/Adopteunmeuble) - Fullstack Web App
-- [Esquisse](https://github.com/SamLavazais/Equisse_mobileApp) - Fullstack Android Web App
+- [Esquisse](https://github.com/SamLavazais/Esquisse) - Fullstack Android Web App
 - [ToDo App](https://github.com/SamLavazais/ToDoApp) - Fullstack Web App
 - [Fast Translator](https://github.com/SamLavazais/extensionChrome-FastTranslator) - extension Chrome
 - [Session Manager](https://github.com/SamLavazais/extensionChrome_SessionManager) - extension Chrome
