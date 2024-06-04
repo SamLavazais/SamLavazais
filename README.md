@@ -44,9 +44,14 @@ Je souhaite contribuer, au sein d'une équipe à taille humaine, à des projets 
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="docker" width="40" height="40"/>
 </p>
 
-## Mon prochain projet
-Une API de recommandation de films :
+## Mes prochains projets
+### Un aggrégateur d'events depuis 8 sources différentes
+- Data pipeline : webscraping automatisé avec Python (requests, beautifulsoup, pandas)
+- API avec Python (**Django**)
+- Frontend : Django ? React JS ?
+
+### Une API de recommandation de films :
 - Backend : **Go**, PostGreSQL
 - Frontend : CLI Javascript
-- Déploiement : Docker, **AWS**
+- Déploiement : Docker, **AWS** ?
 
