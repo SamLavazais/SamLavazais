@@ -1,7 +1,7 @@
 # Hello ! Ici Sam, apprenti·e dev :sparkles:
 
 ## Ce que je recherche
-Je suis actuellement en formation à Ada Tech School et je recherche une alternance en tant que développeur·euse web/software, à partir de juillet/septembre 2024
+Je suis actuellement en formation à Ada Tech School et je recherche une alternance en tant que développeur·euse web/software, à partir de septembre 2024
 J'ai des affinités avec le back-end mais je suis intéressé·e par un poste fullstack, pour explorer et comprendre la _big picture_.\
 Je souhaite pouvoir intégrer toutes les étapes nécessaires à la conception d'applications robustes. Pour cela, je cherche toujours à articuler une compréhension micro et macro des enjeux techniques et adopter une démarche rigoureuse (TDD, clean code). Je suis ainsi capable d'expliquer mes choix techniques et participer à une bonne communication au sein de mon équipe.\
 \
@@ -9,9 +9,10 @@ Je souhaite contribuer, au sein d'une équipe à taille humaine, à des projets 
 => [Vous pouvez me contacter sur LinkedIn](https://www.linkedin.com/in/sam-lavazais/).
 
 ## Mes principaux projets
-- [Adopte un meuble](https://github.com/SamLavazais/Adopteunmeuble) - Fullstack Web App
-- [Esquisse](https://github.com/SamLavazais/Esquisse) - Fullstack Android Web App
-- [ToDo App](https://github.com/SamLavazais/ToDoApp) - Fullstack Web App
+- [EventAggregator](https://github.com/SamLavazais/EventAggregator) - Fullstack Web App (React.js, Python/Flask) - *en cours*
+- [Adopte un meuble](https://github.com/SamLavazais/Adopteunmeuble) - Fullstack Web App (React.js, Node/Express)
+- [Esquisse](https://github.com/SamLavazais/Esquisse) - Fullstack Android Web App (Kotlin - Android Studio, Spring Boot)
+- [ToDo App](https://github.com/SamLavazais/ToDoApp) - Fullstack Web App (Svelte.js, Node/Express)
 - [Fast Translator](https://github.com/SamLavazais/extensionChrome-FastTranslator) - extension Chrome
 - [Session Manager](https://github.com/SamLavazais/extensionChrome_SessionManager) - extension Chrome
 
@@ -44,13 +45,13 @@ Je souhaite contribuer, au sein d'une équipe à taille humaine, à des projets 
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="docker" width="40" height="40"/>
 </p>
 
-## Mes prochains projets
-### Un aggrégateur d'events depuis 8 sources différentes
-- Data pipeline : webscraping automatisé avec Python (requests, beautifulsoup, pandas)
-- API avec Python (**Django**)
-- Frontend : Django ? React JS ?
+## Mon projet en cours : un aggrégateur d'events via webscraping
+- Data pipeline : webscraping automatisé avec Python (requests, beautifulsoup, pandas, apscheduler)
+- API avec Python (**Flask**)
+- Frontend : React.js
 
-### Une API de recommandation de films :
+## Mon projet suivant ?
+### Une API de recommandation de films (pour découvrir Go) :
 - Backend : **Go**, PostGreSQL
 - Frontend : CLI Javascript
 - Déploiement : Docker, **AWS** ?
